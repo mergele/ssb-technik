@@ -6,7 +6,7 @@
 # Quellen
 
 Boxen
-- 2x Evolve 50  [Manual bei thomann.de](https://images.static-thomann.de/pics/atg/atgdata/document/manual/422436.pdf) [Mirror](./manual/422436.pdf) [Local Mirror]()
+- 2x Evolve 50  [Manual bei thomann.de](https://images.static-thomann.de/pics/atg/atgdata/document/manual/422436.pdf) [Local Mirror](manual/422436.pdf) 
 - 1x Monitor 
 
 Mischpult
